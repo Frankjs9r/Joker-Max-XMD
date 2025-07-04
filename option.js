@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263716304574"
+global.ownernomer = "27783583068"
 global.ownername = "iconic tech"
 global.ytname = "YT: https://www.youtube.com/@iconic-tech"
 global.socialm = "GitHub: https://github.com/iconic05"
-global.location = "zimbabwe/bulawayo"
+global.location = "SouthAfrica/Capetown"
 
-global.ownernumber = '263716304574'  //creator number
+global.ownernumber = '27783583068'  //creator number
 global.ownername = 'iconic tech' //owner name
 global.botname = 'ﾌㄖҜ乇尺 爪卂乂'//* CHANGE THIS BOT NOT WORK
 
@@ -36,7 +36,7 @@ global.link = 'https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r'
 global.prefa = ['','!','.','#','&']
 
 //FALSE=DISABLE AND TRUE=ENABLE
-global.chatbot = true; // Enable text chatbot
+global.chatbot = false; // Enable text chatbot
 global.autoRecording = true//auto recording
 global.autoTyping = true //auto typing
 global.emojiReact = false; // Default: enabled
