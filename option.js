@@ -51,7 +51,7 @@ global.typemenu = 'v2'
 module.exports = {
     security: {
         antiSpam: true,
-        maxMessages: 10, // Messages per 10 seconds
+        maxMessages: 15, // Messages per 10 seconds
         blockDuration: 300 // 5 minutes in seconds
     }
 };
